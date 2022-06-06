@@ -18,11 +18,10 @@ Most data is taken from Wikipedia. Countries are specified by their ISO Alpha-2 
 **coastal:** Whether the country is on the coast.
 **continent:** Continent the country is in.
 **flagColors:** Colors of the flag, only if color exceeds 1% of total flag area, sorted by the primary color first.
-**headOfState:** Head of state of the country.
 **government:** Government of the country, can be either Republic, Absolute monarchy, Constitutional monarchy, or Provisional.
+**headOfState:** Head of state of the country.
 **names:** Name of the countries, also abbreviations and alternate spellings, most used first.
 **population:** Population count.
 **populationRank:** Population rank.
 **religion:** Largest religion in the country, includes Christianity, Islam, Judaism, Buddhism, Hinduism, Folk Religion, Irreligion, and Other.
-
-There is also a file containing all the data.
+**all:** All data in one file. There is also a CSV version of this

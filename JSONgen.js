@@ -1,10 +1,12 @@
 const area = require('./json/area.json');
 const areaRank = require('./json/areaRank.json');
 const borders = require('./json/borders.json');
+const borderCount = require('./json/borderCount.json');
 const capital = require('./json/capital.json');
 const coastal = require('./json/coastal.json');
 const continent = require('./json/continent.json');
 const flagColors = require('./json/flagColors.json');
+const flagColorCount = require('./json/flagColorCount.json');
 const government = require('./json/government.json');
 const headOfState = require('./json/headOfState.json');
 const names = require('./json/names.json');
@@ -20,10 +22,12 @@ for (const key in names) {
 		area: area[key],
 		areaRank: areaRank[key],
 		borders: borders[key],
+		borderCount: borderCount[key],
 		capital: capital[key],
 		coastal: coastal[key],
 		continent: continent[key],
 		flagColors: flagColors[key],
+		flagColorCount: flagColorCount[key],
 		government: government[key],
 		headOfState: headOfState[key],
 		population: population[key],
@@ -32,4 +36,4 @@ for (const key in names) {
 	};
 }
 
-console.log(JSON.stringify(list, null, 2));
+console.log(JSON.stringify(list, null, 0));

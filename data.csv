@@ -1,198 +1,198 @@
-names,code,area,areaRank,borders,capital,coastal,continent,flagColors,government,headOfState,population,populationRank,religion
-Andorra,ad,468,181,fr;es,Andorra la Vella,true,Europe,red;blue;yellow;white;saffron,Constitutional monarchy,Joan Enric Vives i Sicília; Emmanuel Macron,79535,187,Christianity
-United Arab Emirates;UAE,ae,83600,113,om;sa,Abu Dhabi,false,Asia,green;black;red;white,Constitutional monarchy,Mohamed bin Zayed Al Nahyan,9282410,97,Islam
-Afghanistan,af,652864,40,cn;ir;pk;tj;tm;uz,Kabul,true,Asia,green;black;red;white;saffron,Provisional,Hibatullah Akhundzada,32890171,43,Islam
-Antigua and Barbuda,ag,442,184,,St. John's,false,North America,red;black;liblue;white;yellow,Constitutional monarchy,Elizabeth II,99337,185,Christianity
-Albania,al,28748,141,gr;me;mk;xk,Tirana,false,Europe,red;black,Republic,Bajram Begaj,2829741,136,Islam
-Armenia,am,29743,139,az;ge;ir;tr,Yerevan,true,Asia,red;saffron;blue,Republic,Vahagn Khachaturyan,2963900,135,Christianity
-Angola,ao,1246700,22,cg;cd;na;zm,Luanda,false,Africa,red;black;yellow,Republic,João Lourenço,32097671,45,Christianity
-Argentina,ar,2780400,8,bo;br;cl;py;uy,Buenos Aires,false,South America,liblue;white;saffron,Republic,Alberto Fernández,47327407,30,Christianity
-Austria,at,83871,112,cz;de;hu;it;li;sk;si;ch,Vienna,true,Europe,red;white,Republic,Alexander Van der Bellen,9027999,99,Christianity
-Australia,au,7692024,6,,Canberra,false,Oceania,blue;white;red,Constitutional monarchy,Elizabeth II,26008698,53,Christianity
-Azerbaijan,az,86600,111,am;ge;ir;ru;tr,Baku,true,Asia,green;liblue;red;white,Republic,Ilham Aliyev,10164464,91,Islam
-Bosnia and Herzegovina,ba,51209,125,hr;me;rs,Sarajevo,false,Europe,blue;yellow;white,Republic,Christian Schmidt,3320954,134,Christianity
-Barbados,bb,430,185,,Bridgetown,false,North America,blue;yellow;black,Republic,Sandra Mason,288000,176,Christianity
-Bangladesh,bd,148460,92,in;mm,Dhaka,false,Asia,green;red,Republic,Abdul Hamid,172827712,8,Islam
-Belgium,be,30528,137,fr;de;lu;nl,Brussels,false,Europe,red;yellow;black,Constitutional monarchy,Philippe,11629213,83,Christianity
-Burkina Faso,bf,274222,74,bj;ci;gh;ml;ne;tg,Ouagadougou,true,Africa,red;green;yellow,Provisional,Paul-Henri Sandaogo Damiba,21510181,59,Islam
-Bulgaria,bg,111002,103,gr;mk;ro;rs;tr,Sofia,false,Europe,red;green;white,Republic,Rumen Radev,6520314,111,Christianity
-Bahrain,bh,785,175,,Manama,false,Asia,red;white,Constitutional monarchy,Hamad bin Isa Al Khalifa,1501635,152,Islam
-Burundi,bi,27834,143,cd;rw;tz,Gitega,true,Africa,green;white;red,Republic,Évariste Ndayishimiye,12574571,78,Christianity
-Benin,bj,114763,100,bf;ne;ng;tg,Porto-Novo,false,Africa,green;red;yellow,Republic,Patrice Talon,12506347,79,Christianity
-Brunei;Brunei Darussalam,bn,5765,166,my,Bandar Seri Begawan,false,Asia,yellow;white;black;red,Absolute monarchy,Hassanal Bolkiah,429999,171,Islam
-Bolivia;Bolivia (Plurinational State of),bo,1098581,27,ar;br;cl;py;pe,Sucre,true,South America,red;yellow;green,Republic,Luis Arce,11797257,80,Christianity
-Brazil,br,8515767,5,ar;bo;co;fr;gy;py;pe;sr;uy;ve,Brasilia,false,South America,green;yellow;blue;white,Republic,Jair Bolsonaro,214712482,6,Christianity
-"Bahamas;The Bahamas;Bahamas, The",bs,13943,156,,Nassau,false,North America,liblue;yellow;black,Constitutional monarchy,Elizabeth II,393450,172,Christianity
-Bhutan,bt,38394,133,cn;in,Thimphu,true,Asia,yellow;red;white;saffron,Constitutional monarchy,Jigme Khesar Namgyel Wangchuck,763200,161,Buddhism
-Botswana,bw,581730,47,na;za;zm;zw,Gaborone,true,Africa,liblue;black;white,Republic,Mokgweetsi Masisi,2410338,143,Christianity
-Belarus,by,207600,84,lv;lt;pl;ru;ua,Minsk,true,Europe,red;green;white,Republic,Alexander Lukashenko,9349645,96,Christianity
-Belize,bz,22966,148,gt;mx,Belmopan,false,North America,blue;white;red;green;black,Constitutional monarchy,Elizabeth II,430191,170,Christianity
-Canada,ca,9984670,2,us,Ottawa,false,North America,red;white,Constitutional monarchy,Elizabeth II,38707636,37,Christianity
-"Democratic Republic of the Congo;Democratic Republic of Congo;Congo, Democratic Republic of the;DRC;Congo Kinshasa;DR Congo",cd,2344858,11,ao;bi;cf;cg;rw;ss;tz;ug;zm,Kinshasa,false,Africa,liblue;red;yellow,Republic,Félix Tshisekedi,92378000,16,Christianity
-Central African Republic;CAR;Central African Rep,cf,622984,44,cm;td;cg;cd;ss;sd,Bangui,true,Africa,yellow;green;white;blue;red,Republic,Faustin-Archange Touadéra,5633412,115,Christianity
-"Congo;Congo Brazzaville;Republic of the Congo;Republic of Congo;Congo, Republic of the",cg,342000,64,ao;cm;cf;cd;ga,Brazzaville,false,Africa,red;yellow;green,Republic,Denis Sassou Nguesso,5657000,114,Christianity
-Switzerland,ch,41284,132,at;fr;de;it;li,Bern,true,Europe,red;white,Republic,Ignazio Cassis,8736500,100,Christianity
-Côte d'Ivoire;Ivory Coast;Cote d Ivoire,ci,322463,68,bf;gh;gn;lr;ml,Yamoussoukro,false,Africa,saffron;green;white,Republic,Alassane Ouattara,27087732,51,Christianity
-Chile,cl,756102,37,ar;bo;pe,Santiago,false,South America,red;white;blue,Republic,Gabriel Boric,19678363,61,Christianity
-Cameroon,cm,475442,53,cf;td;cg;gq;ga;ng,Yaoundé,false,Africa,yellow;green;red,Republic,Paul Biya,24348251,55,Christianity
-"China;People's Republic of China;PRC;China, People's Republic of",cn,9596961,4,af;bt;in;kz;kp;kg;la;mn;mm;np;pk;ru;tj;vn,Beijing,false,Asia,red;yellow,Republic,Xi Jinping,1420686300,1,Irreligion
-Colombia,co,1141748,25,br;ec;pa;pe;ve,Bogotá,false,South America,yellow;red;blue,Republic,Iván Duque,51049498,28,Christianity
-Costa Rica,cr,51100,126,ni;pa,San José,false,North America,red;blue;white,Republic,Rodrigo Chaves Robles,5163038,121,Christianity
-Cuba,cu,109884,104,,Havana,false,North America,blue;white;red,Republic,Miguel Díaz-Canel,11181595,85,Christianity
-Cabo Verde;Cape Verde,cv,4033,168,,Praia,false,Africa,blue;white;red;yellow,Republic,José Maria Neves,563198,168,Christianity
-Cyprus,cy,9251,164,gb,Nicosia,false,Asia,white;saffron;green,Republic,Nicos Anastasiades,888005,160,Christianity
-Czechia;Czech Republic;Czech Rep,cz,78871,114,at;de;pl;sk,Prague,true,Europe,red;white;blue,Republic,Miloš Zeman,10516707,88,Irreligion
-Germany,de,357114,63,at;be;cz;dk;fr;lu;nl;pl;ch,Berlin,false,Europe,red;yellow;black,Republic,Frank-Walter Steinmeier,83222442,19,Christianity
-Djibouti,dj,23200,147,er;et;so,Djibouti,false,Africa,green;liblue;white;saffron,Republic,Ismaïl Omar Guelleh,976107,158,Islam
-Denmark,dk,43094,130,de,Copenhagen,false,Europe,red;white,Constitutional monarchy,Margrethe II,5883562,113,Christianity
-Dominica,dm,751,176,,Roseau,false,North America,green;red;yellow;black;white,Republic,Charles Savarin,72000,188,Christianity
-Dominican Republic;Dominican Rep;Dominican,do,48671,128,ht,Santo Domingo,false,North America,red;blue;white;green,Republic,Luis Abinader,10535535,87,Christianity
-Algeria,dz,2381741,10,ly;ml;mr;ma;ne;tn,Alger,false,Africa,white;green;red,Republic,Abdelmadjid Tebboune,45400000,32,Islam
-Ecuador,ec,276841,73,co;pe,Quito,false,South America,yellow;red;blue;saffron;green;black,Republic,Guillermo Lasso,17992116,67,Christianity
-Estonia,ee,45227,129,lv;ru,Talinn,false,Europe,liblue;black;white,Republic,Alar Karis,1330068,154,Irreligion
-Egypt,eg,1002450,29,il;ly;ps;sd,Cairo,false,Africa,red;black;white;yellow,Republic,Abdel Fattah el-Sisi,103364633,14,Islam
-Eritrea,er,117600,99,dj;et;sd,Asmara,false,Africa,red;green;liblue;yellow,Republic,Isaias Afwerki,3601000,131,Christianity
-Spain,es,505992,51,ad;fr;ma;pt;gb,Madrid,false,Europe,red;yellow;saffron;white,Constitutional monarchy,Felipe VI,47326687,31,Christianity
-Ethiopia,et,1104300,26,dj;er;ke;so;ss;sd,Addis Ababa,true,Africa,red;green;yellow;liblue,Republic,Sahle-Work Zewde,117876000,12,Christianity
-Finland,fi,338425,65,no;ru;se,Helsinki,false,Europe,white;blue,Republic,Sauli Niinistö,5550066,116,Christianity
-Fiji,fj,18272,152,,Suva,false,Oceania,liblue;red;white;blue,Republic,Wiliame Katonivere,898402,159,Christianity
-Micronesia;Federated States of Micronesia;Micronesia (Federated States of),fm,702,179,,Palikir,false,Oceania,liblue;white,Republic,David W. Panuelo,105754,183,Christianity
-France,fr,640679,42,ad;be;br;de;it;lu;mc;nl;es;sr;ch,Paris,false,Europe,red;blue;white,Republic,Emmanuel Macron,67841000,20,Christianity
-Gabon,ga,267668,76,cm;cg;gq,Libreville,false,Africa,yellow;green;liblue,Republic,Ali Bongo Ondimba,2233272,144,Christianity
-United Kingdom;United Kingdom of Great Britain and Northern Ireland;UK,gb,242495,78,ie;es;cy,London,false,Europe,red;white;blue,Constitutional monarchy,Elizabeth II,67081000,21,Christianity
-Grenada,gd,344,187,,St. George's,false,North America,red;yellow;green,Constitutional monarchy,Elizabeth II,113000,181,Christianity
-Georgia,ge,69700,119,am;az;ru;tr,Tbilisi,false,Asia,white;red,Republic,Salome Zourabichvili,3728573,130,Christianity
-Ghana,gh,238533,80,bf;ci;tg,Accra,false,Africa,red;green;yellow;black,Republic,Nana Akufo-Addo,30832019,47,Christianity
-"Gambia;Gambia, The",gm,11295,160,sn,Banjul,false,Africa,red;green;blue;white,Republic,Adama Barrow,2487000,142,Islam
-Guinea,gn,245857,77,ci;gw;lr;ml;sn;sl,Conakry,false,Africa,red;yellow;green,Provisional,Mamady Doumbouya,12907395,77,Islam
-Equatorial Guinea,gq,28051,142,cm;ga,Malabo,false,Africa,red;green;white;liblue,Republic,Teodoro Obiang Nguema Mbasogo,1505588,151,Christianity
-Greece,gr,131957,95,al;bg;mk;tr,Athens,false,Europe,blue;white,Republic,Katerina Sakellaropoulou,10678632,86,Christianity
-Guatemala,gt,108889,105,bz;sv;hn;mx,Guatemala City,false,North America,liblue;white;saffron;green,Republic,Alejandro Giammattei,17109746,70,Christianity
-Guinea-Bissau,gw,36125,135,gn;sn,Bissau,false,Africa,yellow;green;red;black,Republic,Umaro Sissoco Embaló,1646077,150,Islam
-Guyana,gy,214969,83,br;sr;ve,Georgetown,false,South America,green;red;yellow;white;black,Republic,Irfaan Ali,743699,163,Christianity
-Honduras,hn,112492,101,sv;gt;ni,Tegucigalpa,false,North America,liblue;white,Republic,Xiomara Castro,9546178,93,Christianity
-Croatia,hr,56594,124,ba;hu;me;rs;si,Zagreb,false,Europe,red;blue;white;liblue,Republic,Zoran Milanović,3888529,129,Christianity
-Haiti,ht,27750,144,do,Port-au-Prince,false,North America,blue;red;white;green,Republic,Ariel Henry,11743017,82,Christianity
-Hungary,hu,93028,108,at;hr;ro;rs;sk;si;ua,Budapest,true,Europe,red;green;white,Republic,Katalin Novák,9689000,92,Christianity
-Indonesia,id,1904569,14,my;pg;tl,Jakarta,false,Asia,red;white,Republic,Joko Widodo,272248500,4,Islam
-Ireland,ie,70273,118,gb,Dublin,false,Europe,saffron;green;white,Republic,Michael D. Higgins,5011500,123,Christianity
-Israel,il,20770,150,eg;jo;lb;ps;sy,Tel Aviv,false,Asia,white;liblue,Republic,Isaac Herzog,9525980,94,Judaism
-India,in,3287263,7,bd;bt;cn;mm;np;pk,New Dehli,false,Asia,saffron;green;white;blue,Republic,Ram Nath Kovind,1410198350,2,Hinduism
-Iraq,iq,438317,58,ir;jo;kw;sa;sy;tr,Baghdad,false,Asia,white;black;red;green,Republic,Barham Salih,41190700,35,Islam
-Iran;Islamic Republic of Iran;Iran (Islamic Republic of),ir,1648195,17,af;am;az;iq;pk;tr;tm,Tehran,false,Asia,white;red;green,Republic,Ali Khamenei,85491798,17,Islam
-Iceland,is,103000,106,,Reykjavík,false,Europe,blue;red;white,Republic,Guðni Th. Jóhannesson,377280,174,Christianity
-Italy,it,301339,71,at;fr;sm;si;ch;va,Rome,false,Europe,red;green;white,Republic,Sergio Mattarella,58929360,25,Christianity
-Jamaica,jm,10991,161,,Kingston,false,North America,yellow;green;black,Constitutional monarchy,Elizabeth II,2734093,139,Christianity
-Jordan,jo,89342,110,iq;il;ps;sa;sy,Amman,false,Asia,green;black;red;white,Constitutional monarchy,Abdullah II,11222804,84,Islam
-Japan,jp,377976,62,,Tokyo,false,Asia,white;red,Constitutional monarchy,Naruhito,125502000,11,Irreligion
-Kenya,ke,580367,48,et;so;ss;tz;ug,Nairobi,false,Africa,red;black;green;white,Republic,Uhuru Kenyatta,47564296,29,Christianity
-Kyrgyzstan,kg,199951,85,cn;kz;tj;uz,Bishkek,true,Asia,red;yellow,Republic,Sadyr Dzaparov,6700000,109,Islam
-Cambodia,kh,181035,88,la;th;vn,Phnom Penh,false,Asia,blue;red;white;black,Constitutional monarchy,Norodom Sihamoni,15552211,74,Buddhism
-Kiribati,ki,811,174,,South Tarawa,false,Oceania,red;blue;white;yellow,Republic,Taneti Maamau,120740,180,Christianity
-Comoros,km,1862,172,,Moroni,false,Africa,yellow;green;liblue;white;red,Republic,Azali Assoumani,758316,162,Islam
-Saint Kitts and Nevis;St Kitts and Nevis;Saint Kitts;St Kitts,kn,261,190,,Basseterre,false,North America,black;red;green;yellow;white,Constitutional monarchy,Elizabeth II,54000,190,Christianity
-North Korea;Korea (Democratic People's Republic of);DPRK;NK,kp,120540,97,cn;kr;ru,Pyongyang,false,Asia,white;black;red;blue,Republic,Kim Jong-un,25660000,54,Irreligion
-"South Korea;Korea, Republic of",kr,100210,107,kp,Seoul,false,Asia,red;blue;white,Republic,Yoon Suk-yeol,51745000,27,Irreligion
-Kuwait,kw,17818,153,iq;sa,Kuwait City,false,Asia,red;green;white;black,Constitutional monarchy,Nawaf Al-Ahmad Al-Jaber Al-Sabah,4670713,124,Islam
-Kazakhstan,kz,2724900,9,cn;kg;ru;tm;uz,Nur-Sultan,true,Asia,liblue;yellow,Republic,Qasym-Zhomart Toqaev,19235936,62,Islam
-Laos;Lao People's Democratic Republic;Lao People's Democratic Rep,la,236800,82,cn;kh;mm;th;vn,Vientiane,true,Asia,red;blue;white,Republic,Thongloun Sisoulith,7337783,104,Buddhism
-Lebanon,lb,10452,163,il;sy,Beirut,false,Asia,saffron;white;green,Republic,Michel Aoun,6769000,108,Islam
-Saint Lucia;St Lucia,lc,616,180,,Castries,false,North America,blue;yellow;black;white,Constitutional monarchy,Elizabeth II,178696,179,Christianity
-Liechtenstein,li,160,192,at;ch,Vaduz,true,Europe,red;blue;yellow;black,Constitutional monarchy,Hans-Adam II,39315,191,Christianity
-Sri Lanka,lk,65610,120,,Sri Jayawardenepura Kotte,false,Asia,yellow;red;saffron;green,Republic,Gotabaya Rajapaksa,22156000,58,Buddhism
-Liberia,lr,111369,102,ci;gn;sl,Monrovia,false,Africa,red;white;blue,Republic,George Weah,4661010,125,Christianity
-Lesotho,ls,30355,138,za,Maseru,true,Africa,white;green;blue;black,Constitutional monarchy,Letsie III,2159000,145,Christianity
-Lithuania,lt,65300,121,by;lv;pl;ru,Vilnius,false,Europe,red;yellow;green,Republic,Gitanas Nausėda,2794961,138,Christianity
-Luxembourg;Luxemburg,lu,2586,170,be;de;fr,Luxembourg,true,Europe,red;liblue;white,Constitutional monarchy,Henri,645397,165,Christianity
-Latvia,lv,64559,122,by;ee;lt;ru,Riga,false,Europe,red;white,Republic,Egils Levits,1874900,147,Christianity
-Libya,ly,1759540,16,dz;td;eg;ne;sd;tn,Tripoli,false,Africa,black;red;green;white,Provisional,Mohamed al-Menfi,6959000,105,Islam
-Morocco,ma,446550,57,dz;es;mr,Rabat,false,Africa,red;green,Constitutional monarchy,Mohammed VI,37232428,39,Islam
-Monaco,mc,2.02,196,fr,Monaco,false,Europe,red;white,Constitutional monarchy,Albert II,39150,192,Christianity
-"Moldova;Moldova, Republic of",md,33846,136,ro;ua,Chișinău,true,Europe,red;blue;yellow;black,Republic,Maia Sandu,2597100,140,Christianity
-Montenegro,me,13812,157,al;ba;hr;rs;xk,Podgorica,false,Europe,red;saffron;green;liblue,Republic,Milo Đukanović,621306,166,Christianity
-Madagascar,mg,587041,46,,Antananarivo,false,Africa,red;green;white,Republic,Andry Rajoelina,26923353,52,Christianity
-Marshall Islands,mh,181,191,,Majuro,false,Oceania,blue;white;saffron,Republic,David Kabua,54516,189,Christianity
-North Macedonia;Macedonia,mk,25713,146,al;bg;gr;rs;xk,Skopje,true,Europe,red;yellow,Republic,Stevo Pendarovski,1832696,148,Christianity
-Mali,ml,1240192,23,dz;bf;ci;gn;mr;ne;sn,Bamako,true,Africa,red;yellow;green,Provisional,Assimi Goïta,20856000,60,Islam
-Myanmar;Burma,mm,676578,39,bd;cn;in;la;th,Naypyidaw,false,Asia,red;blue;white,Provisional,Myint Swe,55294979,26,Buddhism
-Mongolia,mn,1564110,18,cn;ru,Ulaanbaatar,true,Asia,red;liblue;yellow,Republic,Ukhnaagiin Khürelsükh,3440399,133,Buddhism
-Mauritania,mr,1030700,28,dz;ml;sn;ma,Nouakchott,false,Africa,green;yellow,Republic,Mohamed Ould Ghazouani,4271197,128,Islam
-Malta,mt,316,188,,Valletta,false,Europe,red;white,Republic,George Vella,514564,169,Christianity
-Mauritius,mu,2040,171,,Port Louis,false,Africa,red;green;yellow;blue,Republic,Prithvirajsing Roopun,1266334,156,Hinduism
-Maldives,mv,300,189,,Malé,false,Asia,red;green;white,Republic,Ibrahim Mohamed Solih,383135,173,Islam
-Malawi,mw,118484,98,mz;tz;zm,Lilongwe,true,Africa,red;green;black,Republic,Lazarus Chakwera,18898441,64,Christianity
-Mexico,mx,1964375,13,bz;gt;us,Mexico City,false,North America,red;green;white;saffron,Republic,Andrés Manuel López Obrador,128271248,10,Christianity
-Malaysia,my,330803,67,bn;id;th,Kuala Lumpur,false,Asia,white;red;blue;yellow,Constitutional monarchy,Abdullah Sultan Ahmad Shah,32719200,44,Islam
-Mozambique,mz,801590,35,mw;sz;za;tz;zm;zw,Maputo,false,Africa,yellow;green;black;red;white,Republic,Filipe Nyusi,30832244,46,Christianity
-Namibia,na,825615,34,ao;bw;za;zm,Windhoek,false,Africa,green;blue;red;white;yellow,Republic,Hage Geingob,2550226,141,Christianity
-Niger,ne,1267000,21,dz;bj;bf;td;ly;ml;ng,Niamey,true,Africa,saffron;green;white,Republic,Mohamed Bazoum,24112753,56,Islam
-Nigeria,ng,923768,31,bj;cm;td;ne,Abuja,false,Africa,green;white,Republic,Muhammadu Buhari,211400708,7,Christianity
-Nicaragua,ni,130373,96,cr;hn,Managua,false,North America,liblue;white,Republic,Daniel Ortega,6595674,110,Christianity
-Netherlands,nl,41850,131,be;de;fr,Amsterdam,false,Europe,red;blue;white,Constitutional monarchy,Willem-Alexander,17728231,68,Christianity
-Norway,no,385207,61,fi;ru;se,Oslo,false,Europe,red;blue;white,Constitutional monarchy,Harald V,5435536,118,Christianity
-Nepal,np,147181,93,cn;in,Kathmandu,true,Asia,red;blue;white,Republic,Bidhya Devi Bhandari,29192480,49,Hinduism
-Nauru,nr,21,195,,Yaren,false,Oceania,blue;yellow;white,Republic,Lionel Aingimea,11832,195,Christianity
-New Zealand,nz,270467,75,,Wellington,false,Oceania,blue;red;white,Constitutional monarchy,Elizabeth II,5130569,122,Christianity
-Oman,om,309500,70,ae;sa;ye,Muscat,false,Asia,saffron;white;green,Absolute monarchy,Haitham bin Tarik,4527446,126,Islam
-Panama,pa,75417,116,co;cr,Panama City,false,North America,white;red;liblue,Republic,Laurentino Cortizo,4278500,127,Christianity
-Peru,pe,1285216,19,bo;br;cl;co;ec,Lima,false,South America,red;white,Republic,Pedro Castillo,33035304,42,Christianity
-Papua New Guinea,pg,462840,54,id,Port Moresby,false,Oceania,black;red;yellow;white,Constitutional monarchy,Elizabeth II,9122994,98,Christianity
-Philippines,ph,300000,72,,Manila,false,Asia,red;blue;white;yellow,Republic,Bongbong Marcos,111969076,13,Christianity
-Pakistan,pk,881913,33,af;cn;in;ir,Islamabad,false,Asia,green;white,Republic,Arif Alvi,225199937,5,Islam
-Poland,pl,312696,69,by;cz;de;lt;ru;sk;ua,Warsaw,false,Europe,red;white,Republic,Andrzej Duda,38039000,38,Christianity
-"Palestine;Palestine, State of",ps,6020,165,eg;il;jo,Ramallah,false,Asia,green;black;white;red,Republic,Mahmoud Abbas,5227193,120,Islam
-Portugal,pt,92226,109,es,Lisbon,false,Europe,red;green;yellow;white,Republic,Marcelo Rebelo de Sousa,10347892,90,Christianity
-Palau,pw,459,182,,Ngerulmud,false,Oceania,liblue;yellow,Republic,Surangel Whipps Jr.,17957,194,Christianity
-Paraguay,py,406752,59,ar;bo;br,Asuncíon,true,South America,red;blue;white,Republic,Mario Abdo Benítez,7353038,103,Christianity
-Qatar,qa,11586,159,sa,Doha,false,Asia,red;white,Constitutional monarchy,Tamim bin Hamad Al Thani,2799202,137,Islam
-Romania,ro,238397,81,bg;hu;md;rs;ua,Bucharest,false,Europe,red;yellow;blue,Republic,Klaus Iohannis,19186201,63,Christianity
-Serbia,rs,77474,115,ba;bg;hr;hu;me;mk;ro;xk,Belgrade,true,Europe,red;white;blue;yellow,Republic,Aleksandar Vučić,6871547,106,Christianity
-Russia;Russian Federation,ru,17098246,1,az;by;cn;ee;fi;ge;kz;kp;lv;lt;mn;no;pl;ua,Moscow,false,Europe,red;blue;white,Republic,Vladimir Putin,147190000,9,Christianity
-Rwanda,rw,26338,145,bi;cd;tz;ug,Kigali,true,Africa,liblue;yellow;green;saffron,Republic,Paul Kagame,12955768,76,Christianity
-Saudi Arabia,sa,2149690,12,iq;jo;kw;om;qa;ae;ye,Riyadh,false,Asia,green;white,Absolute monarchy,Salman,35013414,41,Islam
-Solomon Islands,sb,28896,140,,Honiara,false,Oceania,green;liblue;yellow;white,Constitutional monarchy,Elizabeth II,728041,164,Christianity
-Seychelles,sc,452,183,,Victoria,false,Africa,red;yellow;green;blue;white,Republic,Wavel Ramkalawan,99202,186,Christianity
-Sudan,sd,1861484,15,cf;td;eg;et;er;ly;ss,Khartoum,false,Africa,red;black;white;green,Provisional,Abdel Fattah al-Burhan,44480060,33,Islam
-Sweden,se,450295,55,fi;no,Stockholm,false,Europe,blue;yellow,Constitutional monarchy,Carl XVI Gustaf,10468482,89,Christianity
-Singapore,sg,728,178,,Singapore,false,Asia,white;red,Republic,Halimah Yacob,5453600,117,Buddhism
-Slovenia,si,20273,151,at;hr;hu;it,Ljubljana,false,Europe,red;liblue;white,Republic,Borut Pahor,2108977,146,Christianity
-Slovakia,sk,49037,127,at;cz;hu;pl;ua,Bratislava,true,Europe,red;white;blue,Republic,Zuzana Čaputová,5434712,119,Christianity
-Sierra Leone,sl,71740,117,gn;lr,Freetown,false,Africa,green;liblue;white,Republic,Julius Maada Bio,8297882,101,Islam
-San Marino,sm,61,193,it,San Marino,true,Europe,white;liblue;green;yellow,Republic,Oscar Mina; Paolo Rondelli,33705,193,Christianity
-Senegal,sn,196722,86,gm;gn;gw;ml;mr,Dakar,false,Africa,green;red;yellow,Republic,Macky Sall,17223497,69,Islam
-Somalia,so,637657,43,dj;et;ke,Mogadishu,false,Africa,liblue;white,Republic,Hassan Sheikh Mohamud,16360000,72,Islam
-Suriname,sr,163820,90,br;fr;gy,Paramaribo,false,South America,green;red;white;yellow,Republic,Chan Santokhi,598000,167,Christianity
-South Sudan,ss,644329,41,cf;cd;et;ke;sd;ug,Juba,true,Africa,green;black;blue;red;white;yellow,Republic,Salva Kiir Mayardit,13249924,75,Christianity
-São Tomé and Príncipe;Sao Tome and Principe;Sao Tome,st,964,173,,São Tomé,false,Africa,green;yellow;red;black,Republic,Carlos Vila Nova,214610,177,Christianity
-El Salvador,sv,21041,149,gt;hn,San Salvador,false,North America,blue;white,Republic,Nayib Bukele,6825935,107,Christianity
-Syria;Syrian Arab Republic;Syrian Arab Rep;Syrian Arab,sy,185180,87,iq;il;jo;lb;tr,Damascus,false,Asia,red;black;white;green,Republic,Bashar al-Assad,18276000,66,Islam
-Eswatini;Swaziland,sz,17364,154,mz;za,Mbabane,true,Africa,liblue;red;yellow;black;white;saffron,Absolute monarchy,Mswati III,1172000,157,Christianity
-Chad,td,1284000,20,cm;cf;ly;ne;ng;sd,N'Djamena,true,Africa,red;yellow;blue,Provisional,Mahamat Déby,16818391,71,Islam
-Togo,tg,56785,123,bj;bf;gh,Lomé,false,Africa,green;yellow;red;white,Republic,Faure Gnassingbé,7886000,102,Christianity
-Thailand,th,513120,50,kh;la;my;mm,Bangkok,false,Asia,red;blue;white,Constitutional monarchy,Vajiralongkorn,66795505,22,Buddhism
-Tajikistan,tj,143100,94,af;cn;kg;uz,Dushanbe,true,Asia,white;red;green;yellow,Republic,Emomali Rahmon,9506000,95,Islam
-Timor-Leste;East Timor,tl,14919,155,id,Dili,false,Asia,red;black;yellow;white,Republic,José Ramos-Horta,1317780,155,Christianity
-Turkmenistan,tm,488100,52,af;ir;kz;uz,Ashgabat,true,Asia,green;red;saffron;white,Republic,Serdar Berdimuhamedow,6118000,112,Islam
-Tunisia,tn,163610,91,dz;ly,Tunis,false,Africa,red;white,Republic,Kaïs Saïed,11746695,81,Islam
-Tonga,to,747,177,,Nukuʻalofa,false,Oceania,red;white,Constitutional monarchy,Tupou VI,99532,184,Christianity
-Turkey,tr,783562,36,am;az;bg;ge;gr;ir;iq;sy,Ankara,false,Asia,red;white,Republic,Recep Tayyip Erdoğan,84680273,18,Islam
-Trinidad and Tobago,tt,5130,167,,Port of Spain,false,North America,red;black;white,Republic,Paula-Mae Weekes,1367558,153,Christianity
-Tuvalu,tv,26,194,,Funafuti,false,Oceania,liblue;red;white;blue;yellow,Constitutional monarchy,Elizabeth II,10679,196,Christianity
-"Taiwan;Taiwan, Province of China;Taiwan (Republic of China)",tw,36193,134,,Taipei,false,Asia,red;blue;white,Republic,Tsai Ing-wen,23375314,57,Folk Religion
-"Tanzania;Tanzania, United Republic of",tz,945087,30,bi;cd;ke;mw;mz;rw;ug;zm,Dodoma,false,Africa,green;liblue;black;yellow,Republic,Samia Suluhu Hassan,59441988,24,Christianity
-Ukraine,ua,603500,45,by;hu;md;pl;ro;ru;sk,Kyiv,false,Europe,yellow;liblue,Republic,Volodymyr Zelenskyy,41130432,36,Christianity
-Uganda,ug,241550,79,cd;ke;rw;ss;tz,Kampala,true,Africa,yellow;red;black;white,Republic,Yoweri Museveni,42885900,34,Christianity
-United States of America;United States;USA,us,9833517,3,ca;mx,Washington D.C.,false,North America,red;white;blue,Republic,Joe Biden,332716783,3,Christianity
-Uruguay,uy,176215,89,ar;br,Montevideo,false,South America,white;blue;yellow;black,Republic,Luis Lacalle Pou,3554915,132,Christianity
-Uzbekistan,uz,447400,56,af;kz;kg;tj;tm,Tashkent,true,Asia,white;green;liblue;red,Republic,Shavkat Mirziyoyev,35576146,40,Islam
-Vatican;Holy See;Vatican City,va,0.49,197,it,Vatican City,true,Europe,yellow;white;saffron,Absolute monarchy,Pope Francis,825,197,Christianity
-Saint Vincent and the Grenadines;Saint Vincent;St Vincent and the Grenadines;St Vincent,vc,389,186,,Kingstown,false,North America,yellow;green;liblue,Constitutional monarchy,Elizabeth II,110696,182,Christianity
-Venezuela;Venezuela (Bolivarian Republic of),ve,916445,32,br;co;gy,Caracas,false,South America,red;yellow;blue;white,Republic,Nicolás Maduro,28705000,50,Christianity
-Vietnam;Viet Nam,vn,331212,66,kh;cn;la,Hanoi,false,Asia,red;yellow,Republic,Nguyễn Phú Trọng,98505400,15,Folk Religion
-Vanuatu,vu,12189,158,,Port Vila,false,Oceania,red;green;black;yellow,Republic,Tallis Obed Moses,301295,175,Christianity
-Samoa,ws,2842,169,,Apia,false,Oceania,red;blue,Republic,Tuimaleali'ifano Va'aleto'a Sualauvi II,199853,178,Christianity
-Kosovo,xk,10887,162,al;me;mk;rs,Pristina,true,Europe,blue;yellow;white,Republic,Vjosa Osmani,1798188,149,Islam
-Yemen,ye,555000,49,om;sa,Sana'a,false,Asia,red;black;white,Provisional,Rashad al-Alimi,30491000,48,Islam
-South Africa,za,1221037,24,bw;ls;mz;na;sz;zw,Cape Town,false,Africa,green;red;blue;white;black;yellow,Republic,Cyril Ramaphosa,60142978,23,Christianity
-Zambia,zm,752612,38,ao;bw;cd;mw;mz;na;tz;zw,Lusaka,true,Africa,green;saffron;red;black,Republic,Hakainde Hichilema,18400556,65,Christianity
-Zimbabwe,zw,390757,60,bw;mz;za;zm,Harare,true,Africa,yellow;green;red;black;white,Republic,Emmerson Mnangagwa,15790716,73,Christianity
+names,code,area,areaRank,borders,borderCount,capital,coastal,continent,flagColors,flagColorCount,government,headOfState,population,populationRank,religion
+Andorra,ad,468,181,fr;es,2,Andorra la Vella,true,Europe,red;blue;yellow;white;saffron,5,Constitutional monarchy,Joan Enric Vives i Sicília; Emmanuel Macron,79535,187,Christianity
+United Arab Emirates;UAE,ae,83600,113,om;sa,2,Abu Dhabi,false,Asia,green;black;red;white,4,Constitutional monarchy,Mohamed bin Zayed Al Nahyan,9282410,97,Islam
+Afghanistan,af,652864,40,cn;ir;pk;tj;tm;uz,6,Kabul,true,Asia,green;black;red;white;saffron,5,Provisional,Hibatullah Akhundzada,32890171,43,Islam
+Antigua and Barbuda,ag,442,184,,0,St. John's,false,North America,red;black;liblue;white;yellow,5,Constitutional monarchy,Elizabeth II,99337,185,Christianity
+Albania,al,28748,141,gr;me;mk;xk,4,Tirana,false,Europe,red;black,2,Republic,Bajram Begaj,2829741,136,Islam
+Armenia,am,29743,139,az;ge;ir;tr,4,Yerevan,true,Asia,red;saffron;blue,3,Republic,Vahagn Khachaturyan,2963900,135,Christianity
+Angola,ao,1246700,22,cg;cd;na;zm,4,Luanda,false,Africa,red;black;yellow,3,Republic,João Lourenço,32097671,45,Christianity
+Argentina,ar,2780400,8,bo;br;cl;py;uy,5,Buenos Aires,false,South America,liblue;white;saffron,3,Republic,Alberto Fernández,47327407,30,Christianity
+Austria,at,83871,112,cz;de;hu;it;li;sk;si;ch,8,Vienna,true,Europe,red;white,2,Republic,Alexander Van der Bellen,9027999,99,Christianity
+Australia,au,7692024,6,,0,Canberra,false,Oceania,blue;white;red,3,Constitutional monarchy,Elizabeth II,26008698,53,Christianity
+Azerbaijan,az,86600,111,am;ge;ir;ru;tr,5,Baku,true,Asia,green;liblue;red;white,4,Republic,Ilham Aliyev,10164464,91,Islam
+Bosnia and Herzegovina,ba,51209,125,hr;me;rs,3,Sarajevo,false,Europe,blue;yellow;white,3,Republic,Christian Schmidt,3320954,134,Christianity
+Barbados,bb,430,185,,0,Bridgetown,false,North America,blue;yellow;black,3,Republic,Sandra Mason,288000,176,Christianity
+Bangladesh,bd,148460,92,in;mm,2,Dhaka,false,Asia,green;red,2,Republic,Abdul Hamid,172827712,8,Islam
+Belgium,be,30528,137,fr;de;lu;nl,4,Brussels,false,Europe,red;yellow;black,3,Constitutional monarchy,Philippe,11629213,83,Christianity
+Burkina Faso,bf,274222,74,bj;ci;gh;ml;ne;tg,6,Ouagadougou,true,Africa,red;green;yellow,3,Provisional,Paul-Henri Sandaogo Damiba,21510181,59,Islam
+Bulgaria,bg,111002,103,gr;mk;ro;rs;tr,5,Sofia,false,Europe,red;green;white,3,Republic,Rumen Radev,6520314,111,Christianity
+Bahrain,bh,785,175,,0,Manama,false,Asia,red;white,2,Constitutional monarchy,Hamad bin Isa Al Khalifa,1501635,152,Islam
+Burundi,bi,27834,143,cd;rw;tz,3,Gitega,true,Africa,green;white;red,3,Republic,Évariste Ndayishimiye,12574571,78,Christianity
+Benin,bj,114763,100,bf;ne;ng;tg,4,Porto-Novo,false,Africa,green;red;yellow,3,Republic,Patrice Talon,12506347,79,Christianity
+Brunei;Brunei Darussalam,bn,5765,166,my,1,Bandar Seri Begawan,false,Asia,yellow;white;black;red,4,Absolute monarchy,Hassanal Bolkiah,429999,171,Islam
+Bolivia;Bolivia (Plurinational State of),bo,1098581,27,ar;br;cl;py;pe,5,Sucre,true,South America,red;yellow;green,3,Republic,Luis Arce,11797257,80,Christianity
+Brazil,br,8515767,5,ar;bo;co;fr;gy;py;pe;sr;uy;ve,10,Brasilia,false,South America,green;yellow;blue;white,4,Republic,Jair Bolsonaro,214712482,6,Christianity
+"Bahamas;The Bahamas;Bahamas, The",bs,13943,156,,0,Nassau,false,North America,liblue;yellow;black,3,Constitutional monarchy,Elizabeth II,393450,172,Christianity
+Bhutan,bt,38394,133,cn;in,2,Thimphu,true,Asia,yellow;red;white;saffron,4,Constitutional monarchy,Jigme Khesar Namgyel Wangchuck,763200,161,Buddhism
+Botswana,bw,581730,47,na;za;zm;zw,4,Gaborone,true,Africa,liblue;black;white,3,Republic,Mokgweetsi Masisi,2410338,143,Christianity
+Belarus,by,207600,84,lv;lt;pl;ru;ua,5,Minsk,true,Europe,red;green;white,3,Republic,Alexander Lukashenko,9349645,96,Christianity
+Belize,bz,22966,148,gt;mx,2,Belmopan,false,North America,blue;white;red;green;black,5,Constitutional monarchy,Elizabeth II,430191,170,Christianity
+Canada,ca,9984670,2,us,1,Ottawa,false,North America,red;white,2,Constitutional monarchy,Elizabeth II,38707636,37,Christianity
+"Democratic Republic of the Congo;Democratic Republic of Congo;Congo, Democratic Republic of the;DRC;Congo Kinshasa;DR Congo",cd,2344858,11,ao;bi;cf;cg;rw;ss;tz;ug;zm,9,Kinshasa,false,Africa,liblue;red;yellow,3,Republic,Félix Tshisekedi,92378000,16,Christianity
+Central African Republic;CAR;Central African Rep,cf,622984,44,cm;td;cg;cd;ss;sd,6,Bangui,true,Africa,yellow;green;white;blue;red,5,Republic,Faustin-Archange Touadéra,5633412,115,Christianity
+"Congo;Congo Brazzaville;Republic of the Congo;Republic of Congo;Congo, Republic of the",cg,342000,64,ao;cm;cf;cd;ga,5,Brazzaville,false,Africa,red;yellow;green,3,Republic,Denis Sassou Nguesso,5657000,114,Christianity
+Switzerland,ch,41284,132,at;fr;de;it;li,5,Bern,true,Europe,red;white,2,Republic,Ignazio Cassis,8736500,100,Christianity
+Côte d'Ivoire;Ivory Coast;Cote d Ivoire,ci,322463,68,bf;gh;gn;lr;ml,5,Yamoussoukro,false,Africa,saffron;green;white,3,Republic,Alassane Ouattara,27087732,51,Christianity
+Chile,cl,756102,37,ar;bo;pe,3,Santiago,false,South America,red;white;blue,3,Republic,Gabriel Boric,19678363,61,Christianity
+Cameroon,cm,475442,53,cf;td;cg;gq;ga;ng,6,Yaoundé,false,Africa,yellow;green;red,3,Republic,Paul Biya,24348251,55,Christianity
+"China;People's Republic of China;PRC;China, People's Republic of",cn,9596961,4,af;bt;in;kz;kp;kg;la;mn;mm;np;pk;ru;tj;vn,14,Beijing,false,Asia,red;yellow,2,Republic,Xi Jinping,1420686300,1,Irreligion
+Colombia,co,1141748,25,br;ec;pa;pe;ve,5,Bogotá,false,South America,yellow;red;blue,3,Republic,Iván Duque,51049498,28,Christianity
+Costa Rica,cr,51100,126,ni;pa,2,San José,false,North America,red;blue;white,3,Republic,Rodrigo Chaves Robles,5163038,121,Christianity
+Cuba,cu,109884,104,,0,Havana,false,North America,blue;white;red,3,Republic,Miguel Díaz-Canel,11181595,85,Christianity
+Cabo Verde;Cape Verde,cv,4033,168,,0,Praia,false,Africa,blue;white;red;yellow,4,Republic,José Maria Neves,563198,168,Christianity
+Cyprus,cy,9251,164,gb,1,Nicosia,false,Asia,white;saffron;green,3,Republic,Nicos Anastasiades,888005,160,Christianity
+Czechia;Czech Republic;Czech Rep,cz,78871,114,at;de;pl;sk,4,Prague,true,Europe,red;white;blue,3,Republic,Miloš Zeman,10516707,88,Irreligion
+Germany,de,357114,63,at;be;cz;dk;fr;lu;nl;pl;ch,9,Berlin,false,Europe,red;yellow;black,3,Republic,Frank-Walter Steinmeier,83222442,19,Christianity
+Djibouti,dj,23200,147,er;et;so,3,Djibouti,false,Africa,green;liblue;white;saffron,4,Republic,Ismaïl Omar Guelleh,976107,158,Islam
+Denmark,dk,43094,130,de,1,Copenhagen,false,Europe,red;white,2,Constitutional monarchy,Margrethe II,5883562,113,Christianity
+Dominica,dm,751,176,,0,Roseau,false,North America,green;red;yellow;black;white,5,Republic,Charles Savarin,72000,188,Christianity
+Dominican Republic;Dominican Rep;Dominican,do,48671,128,ht,1,Santo Domingo,false,North America,red;blue;white;green,4,Republic,Luis Abinader,10535535,87,Christianity
+Algeria,dz,2381741,10,ly;ml;mr;ma;ne;tn,6,Alger,false,Africa,white;green;red,3,Republic,Abdelmadjid Tebboune,45400000,32,Islam
+Ecuador,ec,276841,73,co;pe,2,Quito,false,South America,yellow;red;blue;saffron;green;black,6,Republic,Guillermo Lasso,17992116,67,Christianity
+Estonia,ee,45227,129,lv;ru,2,Talinn,false,Europe,liblue;black;white,3,Republic,Alar Karis,1330068,154,Irreligion
+Egypt,eg,1002450,29,il;ly;ps;sd,4,Cairo,false,Africa,red;black;white;yellow,4,Republic,Abdel Fattah el-Sisi,103364633,14,Islam
+Eritrea,er,117600,99,dj;et;sd,3,Asmara,false,Africa,red;green;liblue;yellow,4,Republic,Isaias Afwerki,3601000,131,Christianity
+Spain,es,505992,51,ad;fr;ma;pt;gb,5,Madrid,false,Europe,red;yellow;saffron;white,4,Constitutional monarchy,Felipe VI,47326687,31,Christianity
+Ethiopia,et,1104300,26,dj;er;ke;so;ss;sd,6,Addis Ababa,true,Africa,red;green;yellow;liblue,4,Republic,Sahle-Work Zewde,117876000,12,Christianity
+Finland,fi,338425,65,no;ru;se,3,Helsinki,false,Europe,white;blue,2,Republic,Sauli Niinistö,5550066,116,Christianity
+Fiji,fj,18272,152,,0,Suva,false,Oceania,liblue;red;white;blue,4,Republic,Wiliame Katonivere,898402,159,Christianity
+Micronesia;Federated States of Micronesia;Micronesia (Federated States of),fm,702,179,,0,Palikir,false,Oceania,liblue;white,2,Republic,David W. Panuelo,105754,183,Christianity
+France,fr,640679,42,ad;be;br;de;it;lu;mc;nl;es;sr;ch,11,Paris,false,Europe,red;blue;white,3,Republic,Emmanuel Macron,67841000,20,Christianity
+Gabon,ga,267668,76,cm;cg;gq,3,Libreville,false,Africa,yellow;green;liblue,3,Republic,Ali Bongo Ondimba,2233272,144,Christianity
+United Kingdom;United Kingdom of Great Britain and Northern Ireland;UK,gb,242495,78,ie;es;cy,3,London,false,Europe,red;white;blue,3,Constitutional monarchy,Elizabeth II,67081000,21,Christianity
+Grenada,gd,344,187,,0,St. George's,false,North America,red;yellow;green,3,Constitutional monarchy,Elizabeth II,113000,181,Christianity
+Georgia,ge,69700,119,am;az;ru;tr,4,Tbilisi,false,Asia,white;red,2,Republic,Salome Zourabichvili,3728573,130,Christianity
+Ghana,gh,238533,80,bf;ci;tg,3,Accra,false,Africa,red;green;yellow;black,4,Republic,Nana Akufo-Addo,30832019,47,Christianity
+"Gambia;Gambia, The",gm,11295,160,sn,1,Banjul,false,Africa,red;green;blue;white,4,Republic,Adama Barrow,2487000,142,Islam
+Guinea,gn,245857,77,ci;gw;lr;ml;sn;sl,6,Conakry,false,Africa,red;yellow;green,3,Provisional,Mamady Doumbouya,12907395,77,Islam
+Equatorial Guinea,gq,28051,142,cm;ga,2,Malabo,false,Africa,red;green;white;liblue,4,Republic,Teodoro Obiang Nguema Mbasogo,1505588,151,Christianity
+Greece,gr,131957,95,al;bg;mk;tr,4,Athens,false,Europe,blue;white,2,Republic,Katerina Sakellaropoulou,10678632,86,Christianity
+Guatemala,gt,108889,105,bz;sv;hn;mx,4,Guatemala City,false,North America,liblue;white;saffron;green,4,Republic,Alejandro Giammattei,17109746,70,Christianity
+Guinea-Bissau,gw,36125,135,gn;sn,2,Bissau,false,Africa,yellow;green;red;black,4,Republic,Umaro Sissoco Embaló,1646077,150,Islam
+Guyana,gy,214969,83,br;sr;ve,3,Georgetown,false,South America,green;red;yellow;white;black,5,Republic,Irfaan Ali,743699,163,Christianity
+Honduras,hn,112492,101,sv;gt;ni,3,Tegucigalpa,false,North America,liblue;white,2,Republic,Xiomara Castro,9546178,93,Christianity
+Croatia,hr,56594,124,ba;hu;me;rs;si,5,Zagreb,false,Europe,red;blue;white;liblue,4,Republic,Zoran Milanović,3888529,129,Christianity
+Haiti,ht,27750,144,do,1,Port-au-Prince,false,North America,blue;red;white;green,4,Republic,Ariel Henry,11743017,82,Christianity
+Hungary,hu,93028,108,at;hr;ro;rs;sk;si;ua,7,Budapest,true,Europe,red;green;white,3,Republic,Katalin Novák,9689000,92,Christianity
+Indonesia,id,1904569,14,my;pg;tl,3,Jakarta,false,Asia,red;white,2,Republic,Joko Widodo,272248500,4,Islam
+Ireland,ie,70273,118,gb,1,Dublin,false,Europe,saffron;green;white,3,Republic,Michael D. Higgins,5011500,123,Christianity
+Israel,il,20770,150,eg;jo;lb;ps;sy,5,Tel Aviv,false,Asia,white;liblue,2,Republic,Isaac Herzog,9525980,94,Judaism
+India,in,3287263,7,bd;bt;cn;mm;np;pk,6,New Dehli,false,Asia,saffron;green;white;blue,4,Republic,Ram Nath Kovind,1410198350,2,Hinduism
+Iraq,iq,438317,58,ir;jo;kw;sa;sy;tr,6,Baghdad,false,Asia,white;black;red;green,4,Republic,Barham Salih,41190700,35,Islam
+Iran;Islamic Republic of Iran;Iran (Islamic Republic of),ir,1648195,17,af;am;az;iq;pk;tr;tm,7,Tehran,false,Asia,white;red;green,3,Republic,Ali Khamenei,85491798,17,Islam
+Iceland,is,103000,106,,0,Reykjavík,false,Europe,blue;red;white,3,Republic,Guðni Th. Jóhannesson,377280,174,Christianity
+Italy,it,301339,71,at;fr;sm;si;ch;va,6,Rome,false,Europe,red;green;white,3,Republic,Sergio Mattarella,58929360,25,Christianity
+Jamaica,jm,10991,161,,0,Kingston,false,North America,yellow;green;black,3,Constitutional monarchy,Elizabeth II,2734093,139,Christianity
+Jordan,jo,89342,110,iq;il;ps;sa;sy,5,Amman,false,Asia,green;black;red;white,4,Constitutional monarchy,Abdullah II,11222804,84,Islam
+Japan,jp,377976,62,,0,Tokyo,false,Asia,white;red,2,Constitutional monarchy,Naruhito,125502000,11,Irreligion
+Kenya,ke,580367,48,et;so;ss;tz;ug,5,Nairobi,false,Africa,red;black;green;white,4,Republic,Uhuru Kenyatta,47564296,29,Christianity
+Kyrgyzstan,kg,199951,85,cn;kz;tj;uz,4,Bishkek,true,Asia,red;yellow,2,Republic,Sadyr Dzaparov,6700000,109,Islam
+Cambodia,kh,181035,88,la;th;vn,3,Phnom Penh,false,Asia,blue;red;white;black,4,Constitutional monarchy,Norodom Sihamoni,15552211,74,Buddhism
+Kiribati,ki,811,174,,0,South Tarawa,false,Oceania,red;blue;white;yellow,4,Republic,Taneti Maamau,120740,180,Christianity
+Comoros,km,1862,172,,0,Moroni,false,Africa,yellow;green;liblue;white;red,5,Republic,Azali Assoumani,758316,162,Islam
+Saint Kitts and Nevis;St Kitts and Nevis;Saint Kitts;St Kitts,kn,261,190,,0,Basseterre,false,North America,black;red;green;yellow;white,5,Constitutional monarchy,Elizabeth II,54000,190,Christianity
+North Korea;Korea (Democratic People's Republic of);DPRK;NK,kp,120540,97,cn;kr;ru,3,Pyongyang,false,Asia,white;black;red;blue,4,Republic,Kim Jong-un,25660000,54,Irreligion
+"South Korea;Korea, Republic of",kr,100210,107,kp,1,Seoul,false,Asia,red;blue;white,3,Republic,Yoon Suk-yeol,51745000,27,Irreligion
+Kuwait,kw,17818,153,iq;sa,2,Kuwait City,false,Asia,red;green;white;black,4,Constitutional monarchy,Nawaf Al-Ahmad Al-Jaber Al-Sabah,4670713,124,Islam
+Kazakhstan,kz,2724900,9,cn;kg;ru;tm;uz,5,Nur-Sultan,true,Asia,liblue;yellow,2,Republic,Qasym-Zhomart Toqaev,19235936,62,Islam
+Laos;Lao People's Democratic Republic;Lao People's Democratic Rep,la,236800,82,cn;kh;mm;th;vn,5,Vientiane,true,Asia,red;blue;white,3,Republic,Thongloun Sisoulith,7337783,104,Buddhism
+Lebanon,lb,10452,163,il;sy,2,Beirut,false,Asia,saffron;white;green,3,Republic,Michel Aoun,6769000,108,Islam
+Saint Lucia;St Lucia,lc,616,180,,0,Castries,false,North America,blue;yellow;black;white,4,Constitutional monarchy,Elizabeth II,178696,179,Christianity
+Liechtenstein,li,160,192,at;ch,2,Vaduz,true,Europe,red;blue;yellow;black,4,Constitutional monarchy,Hans-Adam II,39315,191,Christianity
+Sri Lanka,lk,65610,120,,0,Sri Jayawardenepura Kotte,false,Asia,yellow;red;saffron;green,4,Republic,Gotabaya Rajapaksa,22156000,58,Buddhism
+Liberia,lr,111369,102,ci;gn;sl,3,Monrovia,false,Africa,red;white;blue,3,Republic,George Weah,4661010,125,Christianity
+Lesotho,ls,30355,138,za,1,Maseru,true,Africa,white;green;blue;black,4,Constitutional monarchy,Letsie III,2159000,145,Christianity
+Lithuania,lt,65300,121,by;lv;pl;ru,4,Vilnius,false,Europe,red;yellow;green,3,Republic,Gitanas Nausėda,2794961,138,Christianity
+Luxembourg;Luxemburg,lu,2586,170,be;de;fr,3,Luxembourg,true,Europe,red;liblue;white,3,Constitutional monarchy,Henri,645397,165,Christianity
+Latvia,lv,64559,122,by;ee;lt;ru,4,Riga,false,Europe,red;white,2,Republic,Egils Levits,1874900,147,Christianity
+Libya,ly,1759540,16,dz;td;eg;ne;sd;tn,6,Tripoli,false,Africa,black;red;green;white,4,Provisional,Mohamed al-Menfi,6959000,105,Islam
+Morocco,ma,446550,57,dz;es;mr,3,Rabat,false,Africa,red;green,2,Constitutional monarchy,Mohammed VI,37232428,39,Islam
+Monaco,mc,2.02,196,fr,1,Monaco,false,Europe,red;white,2,Constitutional monarchy,Albert II,39150,192,Christianity
+"Moldova;Moldova, Republic of",md,33846,136,ro;ua,2,Chișinău,true,Europe,red;blue;yellow;black,4,Republic,Maia Sandu,2597100,140,Christianity
+Montenegro,me,13812,157,al;ba;hr;rs;xk,5,Podgorica,false,Europe,red;saffron;green;liblue,4,Republic,Milo Đukanović,621306,166,Christianity
+Madagascar,mg,587041,46,,0,Antananarivo,false,Africa,red;green;white,3,Republic,Andry Rajoelina,26923353,52,Christianity
+Marshall Islands,mh,181,191,,0,Majuro,false,Oceania,blue;white;saffron,3,Republic,David Kabua,54516,189,Christianity
+North Macedonia;Macedonia,mk,25713,146,al;bg;gr;rs;xk,5,Skopje,true,Europe,red;yellow,2,Republic,Stevo Pendarovski,1832696,148,Christianity
+Mali,ml,1240192,23,dz;bf;ci;gn;mr;ne;sn,7,Bamako,true,Africa,red;yellow;green,3,Provisional,Assimi Goïta,20856000,60,Islam
+Myanmar;Burma,mm,676578,39,bd;cn;in;la;th,5,Naypyidaw,false,Asia,red;blue;white,3,Provisional,Myint Swe,55294979,26,Buddhism
+Mongolia,mn,1564110,18,cn;ru,2,Ulaanbaatar,true,Asia,red;liblue;yellow,3,Republic,Ukhnaagiin Khürelsükh,3440399,133,Buddhism
+Mauritania,mr,1030700,28,dz;ml;sn;ma,4,Nouakchott,false,Africa,green;yellow,2,Republic,Mohamed Ould Ghazouani,4271197,128,Islam
+Malta,mt,316,188,,0,Valletta,false,Europe,red;white,2,Republic,George Vella,514564,169,Christianity
+Mauritius,mu,2040,171,,0,Port Louis,false,Africa,red;green;yellow;blue,4,Republic,Prithvirajsing Roopun,1266334,156,Hinduism
+Maldives,mv,300,189,,0,Malé,false,Asia,red;green;white,3,Republic,Ibrahim Mohamed Solih,383135,173,Islam
+Malawi,mw,118484,98,mz;tz;zm,3,Lilongwe,true,Africa,red;green;black,3,Republic,Lazarus Chakwera,18898441,64,Christianity
+Mexico,mx,1964375,13,bz;gt;us,3,Mexico City,false,North America,red;green;white;saffron,4,Republic,Andrés Manuel López Obrador,128271248,10,Christianity
+Malaysia,my,330803,67,bn;id;th,3,Kuala Lumpur,false,Asia,white;red;blue;yellow,4,Constitutional monarchy,Abdullah Sultan Ahmad Shah,32719200,44,Islam
+Mozambique,mz,801590,35,mw;sz;za;tz;zm;zw,6,Maputo,false,Africa,yellow;green;black;red;white,5,Republic,Filipe Nyusi,30832244,46,Christianity
+Namibia,na,825615,34,ao;bw;za;zm,4,Windhoek,false,Africa,green;blue;red;white;yellow,5,Republic,Hage Geingob,2550226,141,Christianity
+Niger,ne,1267000,21,dz;bj;bf;td;ly;ml;ng,7,Niamey,true,Africa,saffron;green;white,3,Republic,Mohamed Bazoum,24112753,56,Islam
+Nigeria,ng,923768,31,bj;cm;td;ne,4,Abuja,false,Africa,green;white,2,Republic,Muhammadu Buhari,211400708,7,Christianity
+Nicaragua,ni,130373,96,cr;hn,2,Managua,false,North America,liblue;white,2,Republic,Daniel Ortega,6595674,110,Christianity
+Netherlands,nl,41850,131,be;de;fr,3,Amsterdam,false,Europe,red;blue;white,3,Constitutional monarchy,Willem-Alexander,17728231,68,Christianity
+Norway,no,385207,61,fi;ru;se,3,Oslo,false,Europe,red;blue;white,3,Constitutional monarchy,Harald V,5435536,118,Christianity
+Nepal,np,147181,93,cn;in,2,Kathmandu,true,Asia,red;blue;white,3,Republic,Bidhya Devi Bhandari,29192480,49,Hinduism
+Nauru,nr,21,195,,0,Yaren,false,Oceania,blue;yellow;white,3,Republic,Lionel Aingimea,11832,195,Christianity
+New Zealand,nz,270467,75,,0,Wellington,false,Oceania,blue;red;white,3,Constitutional monarchy,Elizabeth II,5130569,122,Christianity
+Oman,om,309500,70,ae;sa;ye,3,Muscat,false,Asia,saffron;white;green,3,Absolute monarchy,Haitham bin Tarik,4527446,126,Islam
+Panama,pa,75417,116,co;cr,2,Panama City,false,North America,white;red;liblue,3,Republic,Laurentino Cortizo,4278500,127,Christianity
+Peru,pe,1285216,19,bo;br;cl;co;ec,5,Lima,false,South America,red;white,2,Republic,Pedro Castillo,33035304,42,Christianity
+Papua New Guinea,pg,462840,54,id,1,Port Moresby,false,Oceania,black;red;yellow;white,4,Constitutional monarchy,Elizabeth II,9122994,98,Christianity
+Philippines,ph,300000,72,,0,Manila,false,Asia,red;blue;white;yellow,4,Republic,Bongbong Marcos,111969076,13,Christianity
+Pakistan,pk,881913,33,af;cn;in;ir,4,Islamabad,false,Asia,green;white,2,Republic,Arif Alvi,225199937,5,Islam
+Poland,pl,312696,69,by;cz;de;lt;ru;sk;ua,7,Warsaw,false,Europe,red;white,2,Republic,Andrzej Duda,38039000,38,Christianity
+"Palestine;Palestine, State of",ps,6020,165,eg;il;jo,3,Ramallah,false,Asia,green;black;white;red,4,Republic,Mahmoud Abbas,5227193,120,Islam
+Portugal,pt,92226,109,es,1,Lisbon,false,Europe,red;green;yellow;white,4,Republic,Marcelo Rebelo de Sousa,10347892,90,Christianity
+Palau,pw,459,182,,0,Ngerulmud,false,Oceania,liblue;yellow,2,Republic,Surangel Whipps Jr.,17957,194,Christianity
+Paraguay,py,406752,59,ar;bo;br,3,Asuncíon,true,South America,red;blue;white,3,Republic,Mario Abdo Benítez,7353038,103,Christianity
+Qatar,qa,11586,159,sa,1,Doha,false,Asia,red;white,2,Constitutional monarchy,Tamim bin Hamad Al Thani,2799202,137,Islam
+Romania,ro,238397,81,bg;hu;md;rs;ua,5,Bucharest,false,Europe,red;yellow;blue,3,Republic,Klaus Iohannis,19186201,63,Christianity
+Serbia,rs,77474,115,ba;bg;hr;hu;me;mk;ro;xk,8,Belgrade,true,Europe,red;white;blue;yellow,4,Republic,Aleksandar Vučić,6871547,106,Christianity
+Russia;Russian Federation,ru,17098246,1,az;by;cn;ee;fi;ge;kz;kp;lv;lt;mn;no;pl;ua,14,Moscow,false,Europe,red;blue;white,3,Republic,Vladimir Putin,147190000,9,Christianity
+Rwanda,rw,26338,145,bi;cd;tz;ug,4,Kigali,true,Africa,liblue;yellow;green;saffron,4,Republic,Paul Kagame,12955768,76,Christianity
+Saudi Arabia,sa,2149690,12,iq;jo;kw;om;qa;ae;ye,7,Riyadh,false,Asia,green;white,2,Absolute monarchy,Salman,35013414,41,Islam
+Solomon Islands,sb,28896,140,,0,Honiara,false,Oceania,green;liblue;yellow;white,4,Constitutional monarchy,Elizabeth II,728041,164,Christianity
+Seychelles,sc,452,183,,0,Victoria,false,Africa,red;yellow;green;blue;white,5,Republic,Wavel Ramkalawan,99202,186,Christianity
+Sudan,sd,1861484,15,cf;td;eg;et;er;ly;ss,7,Khartoum,false,Africa,red;black;white;green,4,Provisional,Abdel Fattah al-Burhan,44480060,33,Islam
+Sweden,se,450295,55,fi;no,2,Stockholm,false,Europe,blue;yellow,2,Constitutional monarchy,Carl XVI Gustaf,10468482,89,Christianity
+Singapore,sg,728,178,,0,Singapore,false,Asia,white;red,2,Republic,Halimah Yacob,5453600,117,Buddhism
+Slovenia,si,20273,151,at;hr;hu;it,4,Ljubljana,false,Europe,red;liblue;white,3,Republic,Borut Pahor,2108977,146,Christianity
+Slovakia,sk,49037,127,at;cz;hu;pl;ua,5,Bratislava,true,Europe,red;white;blue,3,Republic,Zuzana Čaputová,5434712,119,Christianity
+Sierra Leone,sl,71740,117,gn;lr,2,Freetown,false,Africa,green;liblue;white,3,Republic,Julius Maada Bio,8297882,101,Islam
+San Marino,sm,61,193,it,1,San Marino,true,Europe,white;liblue;green;yellow,4,Republic,Oscar Mina; Paolo Rondelli,33705,193,Christianity
+Senegal,sn,196722,86,gm;gn;gw;ml;mr,5,Dakar,false,Africa,green;red;yellow,3,Republic,Macky Sall,17223497,69,Islam
+Somalia,so,637657,43,dj;et;ke,3,Mogadishu,false,Africa,liblue;white,2,Republic,Hassan Sheikh Mohamud,16360000,72,Islam
+Suriname,sr,163820,90,br;fr;gy,3,Paramaribo,false,South America,green;red;white;yellow,4,Republic,Chan Santokhi,598000,167,Christianity
+South Sudan,ss,644329,41,cf;cd;et;ke;sd;ug,6,Juba,true,Africa,green;black;blue;red;white;yellow,6,Republic,Salva Kiir Mayardit,13249924,75,Christianity
+São Tomé and Príncipe;Sao Tome and Principe;Sao Tome,st,964,173,,0,São Tomé,false,Africa,green;yellow;red;black,4,Republic,Carlos Vila Nova,214610,177,Christianity
+El Salvador,sv,21041,149,gt;hn,2,San Salvador,false,North America,blue;white,2,Republic,Nayib Bukele,6825935,107,Christianity
+Syria;Syrian Arab Republic;Syrian Arab Rep;Syrian Arab,sy,185180,87,iq;il;jo;lb;tr,5,Damascus,false,Asia,red;black;white;green,4,Republic,Bashar al-Assad,18276000,66,Islam
+Eswatini;Swaziland,sz,17364,154,mz;za,2,Mbabane,true,Africa,liblue;red;yellow;black;white;saffron,6,Absolute monarchy,Mswati III,1172000,157,Christianity
+Chad,td,1284000,20,cm;cf;ly;ne;ng;sd,6,N'Djamena,true,Africa,red;yellow;blue,3,Provisional,Mahamat Déby,16818391,71,Islam
+Togo,tg,56785,123,bj;bf;gh,3,Lomé,false,Africa,green;yellow;red;white,4,Republic,Faure Gnassingbé,7886000,102,Christianity
+Thailand,th,513120,50,kh;la;my;mm,4,Bangkok,false,Asia,red;blue;white,3,Constitutional monarchy,Vajiralongkorn,66795505,22,Buddhism
+Tajikistan,tj,143100,94,af;cn;kg;uz,4,Dushanbe,true,Asia,white;red;green;yellow,4,Republic,Emomali Rahmon,9506000,95,Islam
+Timor-Leste;East Timor,tl,14919,155,id,1,Dili,false,Asia,red;black;yellow;white,4,Republic,José Ramos-Horta,1317780,155,Christianity
+Turkmenistan,tm,488100,52,af;ir;kz;uz,4,Ashgabat,true,Asia,green;red;saffron;white,4,Republic,Serdar Berdimuhamedow,6118000,112,Islam
+Tunisia,tn,163610,91,dz;ly,2,Tunis,false,Africa,red;white,2,Republic,Kaïs Saïed,11746695,81,Islam
+Tonga,to,747,177,,0,Nukuʻalofa,false,Oceania,red;white,2,Constitutional monarchy,Tupou VI,99532,184,Christianity
+Turkey,tr,783562,36,am;az;bg;ge;gr;ir;iq;sy,8,Ankara,false,Asia,red;white,2,Republic,Recep Tayyip Erdoğan,84680273,18,Islam
+Trinidad and Tobago,tt,5130,167,,0,Port of Spain,false,North America,red;black;white,3,Republic,Paula-Mae Weekes,1367558,153,Christianity
+Tuvalu,tv,26,194,,0,Funafuti,false,Oceania,liblue;red;white;blue;yellow,5,Constitutional monarchy,Elizabeth II,10679,196,Christianity
+"Taiwan;Taiwan, Province of China;Taiwan (Republic of China)",tw,36193,134,,0,Taipei,false,Asia,red;blue;white,3,Republic,Tsai Ing-wen,23375314,57,Folk Religion
+"Tanzania;Tanzania, United Republic of",tz,945087,30,bi;cd;ke;mw;mz;rw;ug;zm,8,Dodoma,false,Africa,green;liblue;black;yellow,4,Republic,Samia Suluhu Hassan,59441988,24,Christianity
+Ukraine,ua,603500,45,by;hu;md;pl;ro;ru;sk,7,Kyiv,false,Europe,yellow;liblue,2,Republic,Volodymyr Zelenskyy,41130432,36,Christianity
+Uganda,ug,241550,79,cd;ke;rw;ss;tz,5,Kampala,true,Africa,yellow;red;black;white,4,Republic,Yoweri Museveni,42885900,34,Christianity
+United States of America;United States;USA,us,9833517,3,ca;mx,2,Washington D.C.,false,North America,red;white;blue,3,Republic,Joe Biden,332716783,3,Christianity
+Uruguay,uy,176215,89,ar;br,2,Montevideo,false,South America,white;blue;yellow;black,4,Republic,Luis Lacalle Pou,3554915,132,Christianity
+Uzbekistan,uz,447400,56,af;kz;kg;tj;tm,5,Tashkent,true,Asia,white;green;liblue;red,4,Republic,Shavkat Mirziyoyev,35576146,40,Islam
+Vatican;Holy See;Vatican City,va,0.49,197,it,1,Vatican City,true,Europe,yellow;white;saffron,3,Absolute monarchy,Pope Francis,825,197,Christianity
+Saint Vincent and the Grenadines;Saint Vincent;St Vincent and the Grenadines;St Vincent,vc,389,186,,0,Kingstown,false,North America,yellow;green;liblue,3,Constitutional monarchy,Elizabeth II,110696,182,Christianity
+Venezuela;Venezuela (Bolivarian Republic of),ve,916445,32,br;co;gy,3,Caracas,false,South America,red;yellow;blue;white,4,Republic,Nicolás Maduro,28705000,50,Christianity
+Vietnam;Viet Nam,vn,331212,66,kh;cn;la,3,Hanoi,false,Asia,red;yellow,2,Republic,Nguyễn Phú Trọng,98505400,15,Folk Religion
+Vanuatu,vu,12189,158,,0,Port Vila,false,Oceania,red;green;black;yellow,4,Republic,Tallis Obed Moses,301295,175,Christianity
+Samoa,ws,2842,169,,0,Apia,false,Oceania,red;blue,2,Republic,Tuimaleali'ifano Va'aleto'a Sualauvi II,199853,178,Christianity
+Kosovo,xk,10887,162,al;me;mk;rs,4,Pristina,true,Europe,blue;yellow;white,3,Republic,Vjosa Osmani,1798188,149,Islam
+Yemen,ye,555000,49,om;sa,2,Sana'a,false,Asia,red;black;white,3,Provisional,Rashad al-Alimi,30491000,48,Islam
+South Africa,za,1221037,24,bw;ls;mz;na;sz;zw,6,Cape Town,false,Africa,green;red;blue;white;black;yellow,6,Republic,Cyril Ramaphosa,60142978,23,Christianity
+Zambia,zm,752612,38,ao;bw;cd;mw;mz;na;tz;zw,8,Lusaka,true,Africa,green;saffron;red;black,4,Republic,Hakainde Hichilema,18400556,65,Christianity
+Zimbabwe,zw,390757,60,bw;mz;za;zm,4,Harare,true,Africa,yellow;green;red;black;white,5,Republic,Emmerson Mnangagwa,15790716,73,Christianity

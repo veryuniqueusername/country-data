@@ -19,7 +19,7 @@ Most data is taken from Wikipedia. Countries are specified by their ISO Alpha-2 
 **continent:** Continent the country is in.
 **flagColors:** Colors of the flag, only if color exceeds 1% of total flag area, sorted by the primary color first.
 **government:** Government of the country, can be either Republic, Absolute monarchy, Constitutional monarchy, or Provisional.
-**headOfState:** Head of state of the country.
+**headOfState:** Head of state of the country, might not be completely up to date.
 **names:** Name of the countries, also abbreviations and alternate spellings, most used first.
 **population:** Population count.
 **populationRank:** Population rank.
